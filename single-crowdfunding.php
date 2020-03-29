@@ -37,7 +37,7 @@ if ( post_password_required() ) {
 </div>
 
 <?php 
-/* Disabled Default WooCommerce Product Loop
+
 get_footer('shop'); 
-*/
+
 ?>
